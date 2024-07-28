@@ -1,0 +1,4 @@
+data/: Contains the dataset used for the project.
+notebooks/: Jupyter notebooks documenting the data preprocessing, feature selection, model implementation, and evaluation.
+scripts/: Python scripts for data cleaning, model training, and evaluation.
+results/: Outputs and visualizations of the model's performance.
